@@ -1,2 +1,3 @@
-	name: Bryan Kerster, Data Scientist
-	markdown: kramdown
+name: Bryan Kerster, Data Scientist
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
